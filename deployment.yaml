@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: k8s-app
-          image: kd231299/k8s-app:v1
+          image: kd231299/k8s-app:v2
           ports:
             - containerPort: 80
